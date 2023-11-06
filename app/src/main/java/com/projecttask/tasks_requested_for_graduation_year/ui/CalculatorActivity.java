@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import com.projecttask.tasks_requested_for_graduation_year.R;
 
-public class SplashActivity extends AppCompatActivity {
+public class CalculatorActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash);
+        setContentView(R.layout.activity_calculator);
     }
 }
