@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Tasks_Requested_For_Graduation_Year</string>
+    <string name="_7">7</string>
+    <string name="_0">0</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="multiply_button">*</string>
+    <string name="divide_button">/</string>
+    <string name="equal_button">=</string>
 </resources>

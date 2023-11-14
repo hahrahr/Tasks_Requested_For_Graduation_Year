@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025701764031",
+    "project_id": "graduation-project-test-tasks",
+    "storage_bucket": "graduation-project-test-tasks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025701764031:android:540ba4187e81fa380a1f0a",
+        "android_client_info": {
+          "package_name": "com.projecttask.tasks_requested_for_graduation_year"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8njupZQ7Ywr4XdlgQzjJd_j9k6zVrBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
