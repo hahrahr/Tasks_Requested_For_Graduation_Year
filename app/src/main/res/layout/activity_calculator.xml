@@ -111,7 +111,7 @@
         android:layout_marginTop="20dp"
         android:gravity="center"
         android:text="Result"
-        android:textAllCaps="true"></TextView>
+        android:textAllCaps="true" />
 
     <TextView
         android:layout_width="match_parent"
@@ -144,9 +144,8 @@
             android:layout_marginBottom="44dp"
             android:gravity="center"
             android:paddingBottom="15dp"
-            android:text="Development By Hammed Ashraf Saudi">
+            android:text="Development By Hammed Ashraf Saudi" />
 
-        </TextView>
     </RelativeLayout>
 
 
